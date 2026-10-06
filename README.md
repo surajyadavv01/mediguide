@@ -1,5 +1,7 @@
 # MediGuide – PDF-Based Medicine Information & Symptom Guide
-Team CareSync: Suraj Yadav • Suraj Giri • Vivek Kumar Bharti
+Team CareSync: Suraj Yadav(2502221530189) • Suraj Giri(2502221530188) • Vivek Kumar Bharti(2502221530209)
+Mentor : Anjali Srivastava
+
 
 Offline-first iOS app (SwiftUI + PDFKit). Upload a medicine-information PDF, enter symptoms,
 and see matching passages from the document. Informational only – no diagnosis, no dosage advice.
